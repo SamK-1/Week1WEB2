@@ -37,4 +37,16 @@ h1 {
 section img {
     width: 20%;
     float: left;
+    margin: 0 15px 15px 0;
 }
+
+nav a {
+    color: azure;
+    font-size: 1.2em;
+}
+
+nav a:active{
+    color: darkgray;
+}
+
+#current
