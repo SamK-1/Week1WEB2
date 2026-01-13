@@ -49,4 +49,14 @@ nav a:active{
     color: darkgray;
 }
 
-#current
+#current {
+    background: antiquewhite;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+section{
+    margin: 20px;
+    border: 2px black;
+    padding: 15px;
+}
